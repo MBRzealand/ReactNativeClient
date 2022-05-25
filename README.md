@@ -1,6 +1,8 @@
 # React Native Client
 
 en chat applikation hvor jeg demonstrerer hvordan websockets kan anvendes i React Native ved brug af Redux Toolkit
+implementationen vil over de følgende par dage bevæge sig over mod en socket.IO implementation grundet at 
+middleware implementationen er bedre dokumenteret.
 
 Applikationen: <br/>
 ![image](https://user-images.githubusercontent.com/70659124/170192530-f16fd70e-b394-4470-8dc0-843d261b024f.png)
